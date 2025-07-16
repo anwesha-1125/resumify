@@ -42,4 +42,4 @@ npm run dev
 ✅ UI animations & micro-interactions
 
 📩 Contact
-Feel free to connect on LinkedIn or [anwesha.priyadarshini777@gmail.com]!
+Feel free to connect on LinkedIn[https://www.linkedin.com/in/anwesha-priyadarshini-944128313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] or Email[anwesha.priyadarshini777@gmail.com]!
